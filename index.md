@@ -47,4 +47,4 @@ You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening 
 
 
 
-![SHA 1 Screenshot](SHA-1.png "SHA 1)
+![SHA 1 Screenshot](SHA-1.png "SHA 1")
